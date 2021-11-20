@@ -18,5 +18,5 @@ Hi there, I'm **Anduin9527**, a **<del>sapphire star</del> CS student**  in NJUP
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Anduin9527's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+![Anduin9527's github stats](https://github-readme-stats.vercel.app/api?username=anduin9527&show_icons=true&hide_border=true)
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/2819?logoColor=white%26project=%26recentMS=0%26showProject=false)
