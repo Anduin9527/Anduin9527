@@ -6,7 +6,7 @@ Hi there, I'm **Anduin9527**, a **<del>sapphire star</del> CS student**  in NJUP
 - 😟 I’m currently learning LNMP and Computer Network
 - 🤔 My interests are with CMD, Linux, Lazy lauguage, etc..;
 - 📫 Please email via anduin9527@gmail.com to reach me.
-- 📝 My Bolg [Lapras的乖离器](lapras.xyz).
+- 📝 My Bolg [Lapras的乖离器](https://lapras.xyz).
 
 
 **Languages and Tools:**  
