@@ -1,5 +1,5 @@
 Hi there, I'm **Anduin9527**, a **<del>sapphire star</del> CS student**  in NJUPT  from China.
-![](https://imgbed-1304793179.cos.ap-nanjing.myqcloud.com/typora/20230405141921.gif)
+<img align="right" alt="GIF" src="https://imgbed-1304793179.cos.ap-nanjing.myqcloud.com/typora/20230405141921.gif" />
 
 **Talking about Personal Stuffs:**
 
