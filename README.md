@@ -2,6 +2,8 @@ Hi there, I'm **Anduin9527**, a **<del>sapphire star</del> CS student**
 
  <img align="right" alt="GIF" src="https://imgbed-1304793179.cos.ap-nanjing.myqcloud.com/typora/20230405142848.gif" />
 
+ [![GitHub Roast](https://githubroast.icu/api/card/Anduin9527)](https://githubroast.icu/u/Anduin9527)
+
 **Talking about Personal Stuffs:**
 
 - 😟 I’m currently learning LNMP and Computer Network
