@@ -2,7 +2,12 @@ Hi there, I'm **Anduin9527**, a **<del>sapphire star</del> CS student**
 
  <img align="right" alt="GIF" src="https://imgbed-1304793179.cos.ap-nanjing.myqcloud.com/typora/20230405142848.gif" />
 
- [![GitHub Roast](https://githubroast.icu/api/card/Anduin9527)](https://githubroast.icu/u/Anduin9527)
+<a href="https://ghfind.com/u/anduin9527?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/anduin9527?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/anduin9527?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
 
 **Talking about Personal Stuffs:**
 
