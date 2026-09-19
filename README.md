@@ -27,9 +27,9 @@ anduin:
 ### Little steps, over time
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/contributions.svg">
-  <img src="assets/contributions.svg" width="100%" alt="An animated snake winding through my GitHub contribution calendar">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anduin9527/Anduin9527/main/assets/contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anduin9527/Anduin9527/main/assets/contributions.svg">
+  <img src="https://raw.githubusercontent.com/Anduin9527/Anduin9527/main/assets/contributions.svg" width="100%" alt="An animated snake winding through my GitHub contribution calendar">
 </picture>
 
 <p align="center"><sub>A small trail of things tried, fixed, and learned. Updated daily.</sub></p>
