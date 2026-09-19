@@ -1,22 +1,35 @@
-Hi there, I'm **Anduin9527**, a **<del>sapphire star</del> CS student** 
+<img src="assets/ai-workshop.png" width="100%" alt="Anduin's AI Workshop — a pixel-art desk, a little robot, and a city after dark">
 
- <img align="right" alt="GIF" src="https://imgbed-1304793179.cos.ap-nanjing.myqcloud.com/typora/20230405142848.gif" />
+<p align="center">
+  <b>Hi, I'm Anduin.</b><br>
+  Exploring AI. Automating the tedious. Building for the fun of it.<br>
+  <sub>研究一点 AI，少做一点重复劳动，多造一点好玩的东西。</sub>
+</p>
 
-[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/anduin9527?variant=radar)](https://ghfind.com/u/anduin9527?ref=badge)
+<p align="center">
+  <a href="mailto:anduin9527@gmail.com">Say hello ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Anduin9527?tab=repositories">Explore the workshop ↗</a>
+</p>
 
-**Talking about Personal Stuffs:**
+---
 
-- 😟 I’m currently learning LNMP and Computer Network
-- 🤔 My interests are with CMD, Linux, Lazy lauguage, etc..;
-- 📫 Please email via anduin9527@gmail.com to reach me.
+### A little about me
 
+```yaml
+anduin:
+  curious_about: [AI, agents, computer vision]
+  enjoys: [automation, open source, small experiments]
+  toolkit: [Python, PyTorch, C++, Linux]
+  approach: "Have an idea? Build a tiny version."
+```
 
+### Little steps, over time
 
-**Languages and Tools:**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/contributions.svg">
+  <img src="assets/contributions.svg" width="100%" alt="An animated snake winding through my GitHub contribution calendar">
+</picture>
 
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<p align="center"><sub>A small trail of things tried, fixed, and learned. Updated daily.</sub></p>
