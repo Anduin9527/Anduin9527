@@ -7,6 +7,15 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/RankaiHQ">
+    <img src="https://avatars.githubusercontent.com/u/180234131?v=4"
+         width="24" height="24" alt="RankAI">
+  </a>
+  &nbsp; Full-Stack Development Intern at
+  <a href="https://rankai.ai">RankAI</a>
+</p>
+
+<p align="center">
   <a href="mailto:anduin9527@gmail.com">Say hello ↗</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/Anduin9527?tab=repositories">Explore the workshop ↗</a>
