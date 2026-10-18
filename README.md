@@ -7,12 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RankaiHQ">
-    <img src="https://avatars.githubusercontent.com/u/180234131?v=4"
-         width="24" height="24" alt="RankAI">
-  </a>
-  &nbsp; Full-Stack Development Intern at
-  <a href="https://rankai.ai">RankAI</a>
+  <b>Currently building at <a href="https://rankai.ai">RankAI ↗</a></b><br>
+  <sub>Full-Stack Development Intern · 2026.10 — Present</sub>
 </p>
 
 <p align="center">
