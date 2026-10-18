@@ -1,4 +1,4 @@
-<img src="assets/ai-workshop.png" width="100%" alt="Anduin's AI Workshop — a pixel-art desk, a little robot, and a city after dark">
+<img src="assets/ai-workshop-animated.gif" width="100%" alt="Anduin's AI Workshop — a pixel-art desk, a little robot, and a city after dark">
 
 <p align="center">
   <b>Hi, I'm Anduin.</b><br>
